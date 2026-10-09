@@ -5,7 +5,7 @@ A 9 task beginner python series aimed at improving my machine learning skills:  
 **Level 1 (Basic)**
 - Task 1: Data preprocessing on the telecom churn dataset. Status: done.
 - Task 2: Linear regression on house prices. Status: done.
-- Task 3: K-Nearest Neighbors classifier on the Iris dataset. Status: not started.
+- Task 3: K-Nearest Neighbors classifier on the Iris dataset. Status: done.
 
 **Level 2 (Intermediate)**
 - Task 1: Logistic regression for churn prediction. Status: not started.
