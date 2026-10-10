@@ -8,14 +8,14 @@ A 9 task beginner python series aimed at improving my machine learning skills:  
 - Task 3: K-Nearest Neighbors classifier on the Iris dataset. Status: done.
 
 **Level 2 (Intermediate)**
-- Task 1: Logistic regression for churn prediction. Status: done.
-- Task 2: Decision tree classifier on the Iris dataset. Status: not started.
-- Task 3: K-Means clustering. Status: not started.
+- Task 4: Logistic regression for churn prediction. Status: done.
+- Task 5: Decision tree classifier on the Iris dataset. Status: not started.
+- Task 6: K-Means clustering. Status: not started.
 
 **Level 3 (Advanced)**
-- Task 1: Random forest classifier. Status: not started.
-- Task 2: Support vector machine with different kernels. Status: not started.
-- Task 3: Neural network with TensorFlow/Keras. Status: not started.
+- Task 7: Random forest classifier. Status: not started.
+- Task 8: Support vector machine with different kernels. Status: not started.
+- Task 9: Neural network with TensorFlow/Keras. Status: not started.
 
 ## Tools Used
 Python, pandas, scikit-learn, matplotlib, seaborn, TensorFlow/Keras, Google Colab.
