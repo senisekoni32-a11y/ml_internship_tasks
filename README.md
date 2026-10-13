@@ -1,5 +1,5 @@
 # ml_internship_tasks
-A 9 task beginner python series aimed at improving my machine learning skills:  preparing data, training models, and evaluating them honestly. The task briefs come from Codveda's machine learning internship programme, and I'm using them for self-study and not for submission.
+A 9 task beginner python series aimed at improving my machine learning skills:  preparing data, training models, and evaluating them honestly. 
 
 ## Progress 
 **Level 1 (Basic)**
