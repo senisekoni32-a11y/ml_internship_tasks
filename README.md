@@ -9,7 +9,7 @@ A 9 task beginner python series aimed at improving my machine learning skills:  
 
 **Level 2 (Intermediate)**
 - Task 4: Logistic regression for churn prediction. Status: done.
-- Task 5: Decision tree classifier on the Iris dataset. Status: not started.
+- Task 5: Decision tree classifier on the Iris dataset. Status: in progress.
 - Task 6: K-Means clustering. Status: not started.
 
 **Level 3 (Advanced)**
